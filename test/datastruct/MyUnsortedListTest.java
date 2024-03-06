@@ -8,7 +8,7 @@ import org.junit.Test;
 public class MyUnsortedListTest {
 	UnsortedList<Integer> testList;
 	
-	//Jorane et Ali etaient là
+	//Ali etaient là
 	@Before
 	public void geList() {
 		testList = MyUnsortedList.of(1, 2, 3, 4);
